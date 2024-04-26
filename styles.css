@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.header>h1{
+	text-align:center;
+	background-color: 
+}
+.row{
+	display:flex;
+	justify-content:space-between;
+	padding:0px 40px;
+}
